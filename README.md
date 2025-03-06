@@ -58,12 +58,6 @@
 
 ---
 
-## 🎥 **프로젝트 발표 영상**  
-
-[**발표 영상 링크**](https://www.youtube.com/watch?v=u6YvGbuR9Qc&list=PL4C2AmBC9jOZZEOwZ67P_Nb_WoQ1JpZ6G&index=5)  
-
----
-
 ## 🎫 **ERD**  
 ![ERDpng](https://github.com/user-attachments/assets/014f64ea-ded6-4f36-bc5a-05ca7e99a80d)  
 
